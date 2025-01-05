@@ -1,0 +1,12 @@
+.heading{
+    background-position: center;
+    margin: 5px;
+    border: 5px;
+    height: max-content;
+    color: aliceblue;
+}
+p{
+    background-image: url('IMG_7707.jpg');
+    background-size: 1920px 1080px;
+    background-position: center;
+}
